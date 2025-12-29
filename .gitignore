@@ -1,0 +1,16 @@
+# Ignore all .env files
+**/.env
+
+# Maven
+**/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Logs
+*.log
